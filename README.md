@@ -1,10 +1,10 @@
 # OPSC-Part-3 POE
-OPSEC POE part 2 github repository 
+OPSEC POE part 3 github repository 
 
 Math Budget App
 
 **Introduction**
-This reposotory has the code of the budget app called Math Budget App. It was developed by a team of software development students for a OPSC POE submision Part 2. It tracks your expenses in different catagories for easy budgeting and tracking expendature.
+This reposotory has the code of the budget app called Math Budget App. It was developed by a team of software development students for a OPSC POE submision Part 3. It tracks your expenses in different catagories for easy budgeting and tracking expendature.
 
 **Participants** 
 *Aaron Adams 
