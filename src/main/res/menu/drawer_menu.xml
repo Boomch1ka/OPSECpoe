@@ -1,0 +1,51 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_category"
+        android:title="Category" />
+
+    <item
+        android:id="@+id/nav_item"
+        android:title="Item" />
+
+    <item
+        android:id="@+id/nav_item_category"
+        android:title="Item Category" />
+
+    <item
+        android:id="@+id/nav_item_category_spent"
+        android:title="Item Category Spent" />
+
+    <item
+        android:id="@+id/nav_item_expense"
+        android:title="Item Expense" />
+
+    <item
+        android:id="@+id/nav_expense"
+        android:title="Expenses" />
+
+    <item
+        android:id="@+id/nav_graph"
+        android:title="Graph" />
+
+    <item
+        android:id="@+id/nav_progress"
+        android:title="Progress" />
+
+    <item
+        android:id="@+id/nav_badges"
+        android:title="Badges" />
+
+    <item
+        android:id="@+id/nav_currency_converter"
+        android:title="Currency Converter" />
+
+    <item
+        android:id="@+id/nav_budget_tips"
+        android:title="Budget Tips" />
+
+    <item
+        android:id="@+id/nav_reward"
+        android:title="Reward" />
+
+</menu>
